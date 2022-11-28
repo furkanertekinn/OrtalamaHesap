@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\obj\Debug\KararYapilariOdev2.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\obj\Debug\KararYapilariOdev2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\obj\Debug\KararYapilariOdev2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\bin\Debug\KararYapilariOdev2.exe.config
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\bin\Debug\KararYapilariOdev2.exe
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\bin\Debug\KararYapilariOdev2.pdb
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\obj\Debug\KararYapilariOdev2.exe
+C:\Users\Furkan\source\repos\KararYapilariOdev2\KararYapilariOdev2\obj\Debug\KararYapilariOdev2.pdb
